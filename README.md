@@ -1,4 +1,5 @@
-# quiz
+# Quiz
+For this class, I was required to create a quiz website by retrieving the question and answer from public API. The bug that we have to solve was how to randomize the correct answer since answers are divided into 2, correct_answer and incorrect_answers. 
 
 ## Project setup
 ```
